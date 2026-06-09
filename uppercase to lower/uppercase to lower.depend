@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678978018 source:c:\users\user\onedrive - mansoura university - main\desktop\mostafa\breakin\uppercase to lower\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

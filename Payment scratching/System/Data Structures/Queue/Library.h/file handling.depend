@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697972959 source:c:\users\user\onedrive - mansoura university - main\desktop\mostafa\breakin\payment scratching\system\database\file handling\file handling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1697952099 c:\users\user\onedrive - mansoura university - main\desktop\mostafa\breakin\payment scratching\system\database\file handling\file handling\library.h
+	<stdint.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697706704 source:c:\users\user\onedrive - mansoura university - main\desktop\mostafa\breakin\payment scratching\getcardholdername\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<ctype.h>
+

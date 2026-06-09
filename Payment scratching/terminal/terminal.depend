@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697707792 source:c:\users\user\onedrive - mansoura university - main\desktop\mostafa\breakin\payment scratching\terminal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<ctype.h>
+
